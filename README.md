@@ -6,7 +6,7 @@
 
 2. Download project.
 
-3. Change `user_id` and `user_hash` in `config.py` to your app id and app hash that you can get from first step.
+3. Change `user_id` and `user_hash` in `config.py` to your app_id and app_hash.
 
 4. Run project locally to log in your Telegram account.
 
