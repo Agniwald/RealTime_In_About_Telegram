@@ -2,6 +2,8 @@
 
 https://repl.it/@dmitriyshilkin0/realtimedemo
 
+# Whole tutorial for those who do not understand how it is work at all -  https://youtu.be/adgFKr2q0-c
+
 # Usage
 
 1. Get app_id and app_hash from https://my.telegram.org/auth?to=apps
