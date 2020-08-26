@@ -8,13 +8,11 @@ https://repl.it/@dmitriyshilkin0/realtimedemo
 
 1. Get app_id and app_hash from https://my.telegram.org/auth?to=apps
 
-2. Download project.
+2. Change `user_id` and `user_hash` in `config.py` to your app_id and app_hash.
 
-3. Change `user_id` and `user_hash` in `config.py` to your app_id and app_hash.
+3. Run project locally to log in your Telegram account.
 
-4. Run project locally to log in your Telegram account.
-
-5. Deploy.
+4. Deploy.
 
 # Example
 
